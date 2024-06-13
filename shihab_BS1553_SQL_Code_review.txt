@@ -1,0 +1,18 @@
+1. Database and Table Creation
+	-- Constraints not added properly for few columns
+	-- Decimal point limit not defined in price column
+
+2. Task 1 
+	-- created actual table for US holidays, temporary table creation should be more appropriate 
+	-- asked to subset the peak seasons (holiday, weekand), you deleted the data rather selecting the subset (it's scary) 
+
+3. Task 2
+	-- Stock quantity data is not present in the database. You showed the total quantity as required inventory. It's actually total 	orders count for each item. 
+	
+4. Task 3
+	-- this question also links to the previous one requires stock data. showed the total quantity as a total inventory perfectly. 
+
+5. Task 4
+	-- suggession provided without any prior background. You should show the monthly inventory and how the sales growing for each 	product and then come up with a suggestion based on these results.
+
+
